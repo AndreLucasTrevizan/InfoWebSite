@@ -1,4 +1,5 @@
 <template>
+    <!-- Div que vai ficar a direita, com algumas postagens que seriam menos importantes digamos assim -->
     <div class="more-news">
         <div class="side-news">
             <div class="side-news">
